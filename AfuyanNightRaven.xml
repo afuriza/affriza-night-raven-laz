@@ -8,15 +8,15 @@
       <Globals Version="13">
         <SchemeAfuyanNightRaven>
           <ahaBracketMatch Style="fsUnderline" BackPriority="3000" ForePriority="3000" FramePriority="3000"/>
-          <ahaCodeFoldingTree Background="2238503" Foreground="9080975"/>
-          <ahaDefault Background="2238503" Foreground="15792376"/>
+          <ahaCodeFoldingTree Background="2960168" Foreground="9080975"/>
+          <ahaDefault Background="2960168" Foreground="15792376"/>
           <ahaDisabledBreakpoint Background="3072678" Foreground="clBlack" BackPriority="500" ForePriority="500" FramePriority="500" BackAlpha="127"/>
           <ahaEnabledBreakpoint Background="15718758" Foreground="clBlack" BackPriority="500" ForePriority="500" FramePriority="500" BackAlpha="127"/>
           <ahaErrorLine Background="2070525" Foreground="clBlack" BackPriority="500" ForePriority="500" FramePriority="500" BackAlpha="127"/>
           <ahaExecutionPoint Background="7481081" Foreground="clBlack" BackPriority="500" ForePriority="500" FramePriority="500" BackAlpha="127"/>
           <ahaFoldedCode Foreground="9080975" FrameColor="9080975" BackPriority="8000" ForePriority="8000" FramePriority="8000"/>
-          <ahaGutter Background="2238503"/>
-          <ahaGutterSeparator Background="2238503" Foreground="4081737"/>
+          <ahaGutter Background="2960168"/>
+          <ahaGutterSeparator Background="2960168" Foreground="4081737"/>
           <ahaHighlightAll BackPriority="4000" ForePriority="4000" FramePriority="4000"/>
           <ahaHighlightWord FrameColor="9080975" BackPriority="3000" ForePriority="3000" FramePriority="3000"/>
           <ahaIfDefBlockActive BackPriority="9000" ForePriority="9000" FramePriority="9000"/>
@@ -28,8 +28,8 @@
           <ahaIncrementalSearch BackPriority="4000" ForePriority="4000" FramePriority="4000"/>
           <ahaInvalidBreakpoint Background="3072678" Foreground="clBlack" BackPriority="500" ForePriority="500" FramePriority="500" BackAlpha="127"/>
           <ahaLineHighlight Background="3029049" BackPriority="500" ForePriority="500" FramePriority="500"/>
-          <ahaLineNumber Background="2238503" Foreground="9080975"/>
-          <ahaModifiedLine Background="2238503" Foreground="3072678" FrameColor="2070525"/>
+          <ahaLineNumber Background="2960168" Foreground="9080975"/>
+          <ahaModifiedLine Background="2960168" Foreground="3072678" FrameColor="2070525"/>
           <ahaMouseLink Foreground="15718758" FrameColor="15718758" FrameEdges="sfeBottom" BackPriority="2500" ForePriority="1500" FramePriority="7500"/>
           <ahaRightMargin Foreground="9080975"/>
           <ahaSpecialVisibleChars BackPriority="8100" ForePriority="8100" FramePriority="8100"/>
@@ -84,7 +84,7 @@
           <Comment Foreground="clGray"/>
           <Directive Foreground="2980518"/>
           <IDE_Directive Foreground="8556198"/>
-          <Identifier Foreground="11986675"/>
+          <Identifier Foreground="16772560"/>
           <Number Foreground="10739391"/>
           <Reserved_word Foreground="16483974" Style="fsBold"/>
           <String Foreground="8233194"/>
@@ -524,11 +524,17 @@
       </LangSQL>
       <LangCascading_style_sheets Version="13">
         <SchemeAfuyanNightRaven>
+          <ahaCodeFoldingTree Background="2238503"/>
+          <ahaDefault Background="2238503"/>
           <ahaDisabledBreakpoint BackAlpha="0"/>
           <ahaEnabledBreakpoint BackAlpha="0"/>
           <ahaErrorLine BackAlpha="0"/>
           <ahaExecutionPoint BackAlpha="0"/>
+          <ahaGutter Background="2238503"/>
+          <ahaGutterSeparator Background="2238503"/>
           <ahaInvalidBreakpoint BackAlpha="0"/>
+          <ahaLineNumber Background="2238503"/>
+          <ahaModifiedLine Background="2238503"/>
           <ahaTopInfoHint ForeAlpha="0" FrameAlpha="0"/>
           <ahaUnknownBreakpoint BackAlpha="0"/>
         </SchemeAfuyanNightRaven>
@@ -738,6 +744,7 @@
       <LangPike Version="13">
         <SchemeAfuyanNightRaven>
           <ahaCodeFoldingTree Background="4081737"/>
+          <ahaDefault Background="2238503"/>
           <ahaDisabledBreakpoint BackAlpha="0"/>
           <ahaEnabledBreakpoint BackAlpha="0"/>
           <ahaErrorLine BackAlpha="0"/>
@@ -755,3 +762,4 @@
     </ColorSchemes>
   </Lazarus>
 </CONFIG>
+Cancel changes
